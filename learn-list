@@ -1,0 +1,17 @@
+Language:
+- PHP
+
+Point
+- Print
+- Var String
+- Var Number (int, float)
+- Var constants
+- var True/false
+- var null
+- Condition (if else)
+- Function
+
+Setup:
+- Docker
+- Docker compose
+- Volume
